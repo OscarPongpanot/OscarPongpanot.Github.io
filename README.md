@@ -2,17 +2,14 @@
 
 # Hi there, I'm Pongpanot (Oscar) 👋
 
-
-<br>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=200&section=header&text=AI%20&%20Robotics&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00D2FF&width=435&lines=Artificial+Intelligence+Student;Machine+Learning+Enthusiast;Robotics+Developer)](https://git.io/typing-svg)
 
 </div>
 
-</div>
-
 ### 🤖 About Me
-<img align="right" width="280" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndXIzZzh3bm9pYjZ6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKSjP8745n14hTW/giphy.gif">
+<img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndXIzZzh3bm9pYjZ6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKSjP8745n14hTW/giphy.gif">
 
 I'm a 3rd-year **Artificial Intelligence** student at **Huachiew Chalermprakiet University**. I'm passionate about building intelligent systems, optimizing algorithms, and exploring the intersection of linguistics and technology.
 
@@ -47,9 +44,9 @@ I'm a 3rd-year **Artificial Intelligence** student at **Huachiew Chalermprakiet 
 ---
 
 ### 🏆 Key Projects
-* **[Linguist Assistant](https://github.com/OscarPongpanot):** A universal text extraction and tokenization tool using Streamlit.
-* **[License Plate Recognition](https://github.com/OscarPongpanot):** An end-to-end LPR system using Roboflow and EasyOCR.
-* **[8-Puzzle Solver](https://github.com/OscarPongpanot):** Implementation of State Space Search algorithms.
+* **[Linguist Assistant](https://github.com/OscarPongpanot):** A universal text extraction and tokenization tool.
+* **[License Plate Recognition](https://github.com/OscarPongpanot):** An end-to-end LPR system.
+* **[8-Puzzle Solver](https://github.com/OscarPongpanot):** State Space Search algorithms.
 
 ---
 
