@@ -20,9 +20,7 @@ I'm a 3rd-year **Artificial Intelligence** student at **Huachiew Chalermprakiet 
 ---
 
 ### 📊 GitHub Stats & Activity
-![Stats](https://github-readme-stats.vercel.app/api?username=OscarPongpanot&show_icons=true&theme=cyanical&count_private=true)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=OscarPongpanot&theme=cyanical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OscarPongpanot&layout=compact&theme=cyanical&hide_langs=html,css)
 
 ---
 
