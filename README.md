@@ -4,7 +4,6 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00D2FF&width=435&lines=Artificial+Intelligence+Student;Machine+Learning+Enthusiast;Robotics+Developer)
 
-![AI in Robotics](image.png)
 
 ### 🤖 About Me
 I'm a 3rd-year **Artificial Intelligence** student at **Huachiew Chalermprakiet University**. I'm passionate about building intelligent systems, optimizing algorithms, and exploring the intersection of linguistics and technology.
