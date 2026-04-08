@@ -1,16 +1,10 @@
-<div align="center">
-
 # Hi there, I'm Pongpanot (Oscar) 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=200&section=header&text=AI%20&%20Robotics&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+![AI Robotics Banner](image_c03d92.jpg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00D2FF&width=435&lines=Artificial+Intelligence+Student;Machine+Learning+Enthusiast;Robotics+Developer)](https://git.io/typing-svg)
-
-</div>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00D2FF&width=435&lines=Artificial+Intelligence+Student;Machine+Learning+Enthusiast;Robotics+Developer)
 
 ### 🤖 About Me
-<img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndXIzZzh3bm9pYjZ6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKSjP8745n14hTW/giphy.gif">
-
 I'm a 3rd-year **Artificial Intelligence** student at **Huachiew Chalermprakiet University**. I'm passionate about building intelligent systems, optimizing algorithms, and exploring the intersection of linguistics and technology.
 
 * 🔭 **Current Projects:** Developing **Arm Robot** (Integrated with ESP32 & PCA9685)
@@ -21,25 +15,14 @@ I'm a 3rd-year **Artificial Intelligence** student at **Huachiew Chalermprakiet 
 ---
 
 ### 🛠️ Tech Stack & Tools
-<p align="left">
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> 
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> 
-<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" /> 
-<img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
-</p>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 ---
 
 ### 📊 GitHub Stats & Activity
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=OscarPongpanot&show_icons=true&theme=cyanical&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=OscarPongpanot&theme=cyanical" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OscarPongpanot&layout=compact&theme=cyanical&hide_langs=html,css" />
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=OscarPongpanot&show_icons=true&theme=cyanical&count_private=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=OscarPongpanot&theme=cyanical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OscarPongpanot&layout=compact&theme=cyanical&hide_langs=html,css)
 
 ---
 
@@ -51,8 +34,6 @@ I'm a 3rd-year **Artificial Intelligence** student at **Huachiew Chalermprakiet 
 ---
 
 ### 📫 Connect with me
-<p align="center">
-<a href="mailto:Pongpanoothazard.2547@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Pongpanoothazard.2547@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=100&section=footer" width="100%" />
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=100&section=footer)
