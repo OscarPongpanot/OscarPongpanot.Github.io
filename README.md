@@ -5,6 +5,9 @@
 
 <br>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00D2FF&width=435&lines=Artificial+Intelligence+Student;Machine+Learning+Enthusiast;Robotics+Developer)](https://git.io/typing-svg)
+
+</div>
 
 </div>
 
