@@ -4,7 +4,7 @@
 
 
 <br>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=200&section=header&text=AI%20&%20Robotics&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00D2FF&width=435&lines=Artificial+Intelligence+Student;Machine+Learning+Enthusiast;Robotics+Developer)](https://git.io/typing-svg)
 
 </div>
