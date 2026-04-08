@@ -1,8 +1,6 @@
 # Hi there, I'm Pongpanot (Oscar) 👋
 
-![AI Robotics Banner]("https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=200&section=header&text=AI%20&%20Robotics&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%")
-
-![Typing SVG](https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=200&section=header&text=AI%20&%20Robotics&fontSize=70&animation=fadeIn&fontAlignY=35)
+![AI Robotics Banner](https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=200&section=header&text=AI%20&%20Robotics&fontSize=70&animation=fadeIn&fontAlignY=35)
 
 ### 🤖 About Me
 I'm a 3rd-year **Artificial Intelligence** student at **Huachiew Chalermprakiet University**. I'm passionate about building intelligent systems, optimizing algorithms, and exploring the intersection of linguistics and technology.
