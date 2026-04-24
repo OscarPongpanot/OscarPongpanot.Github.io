@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Lab 1.3.7 - Database Design
 ---
 
 # Lab 1.3.7: Database Design in Microsoft Access
