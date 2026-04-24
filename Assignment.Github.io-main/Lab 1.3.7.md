@@ -1,3 +1,8 @@
+---
+layout: default
+title: Lab 1.3.7 - Database Design
+---
+
 # Lab 1.3.7: Database Design in Microsoft Access
 
 **เป้าหมายของ Lab:** เพื่อทำความเข้าใจเกี่ยวกับตาราง (Tables) และความสัมพันธ์ (Relationships) ในฐานข้อมูล Microsoft Access โดยจำลองสถานการณ์การใช้งานฐานข้อมูลเพื่อติดตามข้อมูลการขาย (Sales data)
@@ -51,3 +56,6 @@
 ![แสดงหน้าต่าง Design View ของตาราง Products หรือเส้นความสัมพันธ์](<Comptia Assign Pic/1.3.7/2..png>)
 
 **คำตอบ:** * `ProductType`
+
+---
+[🏠 กลับหน้าหลัก](https://oscarpongpanot.github.io)
