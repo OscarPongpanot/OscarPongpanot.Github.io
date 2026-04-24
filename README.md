@@ -44,10 +44,9 @@ I'm a 3rd-year **Artificial Intelligence** student at **Huachiew Chalermprakiet 
 
 | Lab | หัวข้อ | Module | คะแนน |
 | :--- | :--- | :--- | :--- |
-| **1.3.7** | [Database Design in Microsoft Access](OscarPongpanot.Github.io/Assignment.Github.io-main/Lab 1.3.7.md) | Module 1.3 - Describe the Way We Use Tables, Primary Keys, and Normalization |  |
-| **12.2.9** | [Analyze Data](OscarPongpanot.Github.io/Assignment.Github.io-main/Lab 12.2.9.md) | Module 12.2 - Utilize Tests and Methods to Determine Relationships Between Variables |  |
-
+| **1.3.7** | [Database Design in Microsoft Access](Assignment.Github.io-main/Lab%201.3.7.md) | Module 1.3 - Describe the Way We Use Tables, Primary Keys, and Normalization |  |
+| **12.2.9** | [Analyze Data](Assignment.Github.io-main/Lab%2012.2.9.md) | Module 12.2 - Utilize Tests and Methods to Determine Relationships Between Variables |  |
 
 ## Insight
-[Insight](OscarPongpanot.Github.io/insight.github.io-main/insight dataset.md)
+[Insight](insight.github.io-main/insight%20dataset.md)
 
