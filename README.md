@@ -48,5 +48,5 @@ I'm a 3rd-year **Artificial Intelligence** student at **Huachiew Chalermprakiet 
 | **12.2.9** | [Analyze Data](Assignment.Github.io-main/Lab_12_2_9.md) | Module 12.2 - Utilize Tests and Methods to Determine Relationships Between Variables |  |
 
 ## Insight
-[Insight](insight.github.io-main/insight_dataset.md)
+[Insight](https://github.com/OscarPongpanot/OscarPongpanot.Github.io/edit/main/insight.github.io-main/insight_dataset.md)
 
