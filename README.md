@@ -50,5 +50,5 @@ I'm a 3rd-year **Artificial Intelligence** student at **Huachiew Chalermprakiet 
 ---
 
 ## Insight
-[Insight](insight.github.io-main/insight_dataset.md) 
+[Insight](insight.github.io-main/insight_dataset.md)
 
