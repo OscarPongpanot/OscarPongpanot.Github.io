@@ -60,5 +60,5 @@ I'm a 3rd-year **Artificial Intelligence** student at **Huachiew Chalermprakiet 
 ---
 
 ## data visualization as functional art
-[Idea Generation](DATA-VAFA/Idea-Genartion.md)
+[Idea Generation](DATA-VAFA/Idea-Generation.md)
 
