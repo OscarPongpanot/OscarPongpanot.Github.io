@@ -56,3 +56,6 @@ I'm a 3rd-year **Artificial Intelligence** student at **Huachiew Chalermprakiet 
 ## The Insight Connection
 [Cross-Data-Insight-Analysis](Connection-Analysis/Cross-Data-Insight-Analysis.md)
 
+## data visualization as functional art
+[Idea Generation](DATA-VAFA/Idea-Genartion.md)
+
