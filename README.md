@@ -50,7 +50,7 @@ I'm a 3rd-year **Artificial Intelligence** student at **Huachiew Chalermprakiet 
 ---
 
 ## Insight
-[Inbound Tourism Trends Analysis](insight.github.io-main/Inbound Tourism Trends Analysis.md)
+[Inbound Tourism Trends Analysis](insight.github.io-main/Inbound-Tourism-Trends-Analysis.md)
 
 
 ## The Insight Connection
