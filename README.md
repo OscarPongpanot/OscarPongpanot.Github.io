@@ -42,10 +42,10 @@ I'm a 3rd-year **Artificial Intelligence** student at **Huachiew Chalermprakiet 
 
 ## Lab Report
 
-| Lab | หัวข้อ | Module | คะแนน |
-| :--- | :--- | :--- | :--- |
-| **1.3.7** | [Database Design in Microsoft Access](Assignment/Database-Design-in-Microsoft-Access.md) | Module 1.3 - Describe the Way We Use Tables, Primary Keys, and Normalization |  |
-| **12.2.9** | [Analyze Data](Assignment/Analyze-Data.md) | Module 12.2 - Utilize Tests and Methods to Determine Relationships Between Variables |  |
+| Lab | หัวข้อ | Module | 
+| :--- | :--- | :--- | 
+| **1.3.7** | [Database Design in Microsoft Access](Assignment/Database-Design-in-Microsoft-Access.md) | Module 1.3 - Describe the Way We Use Tables, Primary Keys, and Normalization |  
+| **12.2.9** | [Analyze Data](Assignment/Analyze-Data.md) | Module 12.2 - Utilize Tests and Methods to Determine Relationships Between Variables |  
 
 ---
 
